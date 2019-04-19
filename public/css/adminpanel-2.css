@@ -1,0 +1,19 @@
+@import url("//unpkg.com/element-ui@2.4.2/lib/theme-chalk/index.css");
+/*==========
+ ==========*/
+
+.specialist {
+    margin: auto;
+    width: 80%;
+    padding: 30px 0 10px 0px;
+    text-align: center;
+}
+.h3 {
+    color: #0d70b7;
+}
+.tableSpecial {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+

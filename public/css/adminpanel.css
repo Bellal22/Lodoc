@@ -1,0 +1,39 @@
+@import url("//unpkg.com/element-ui@2.4.2/lib/theme-chalk/index.css");
+
+.el-select .el-input {
+    width: 110px;
+}
+.inputMdify {
+    width:40%  !important ;
+    border-bottom-width: 10px;
+
+}
+.input-with-select .el-input-group__prepend {
+    background-color: #fff;;
+}
+.block {
+    padding-top: 25px ;
+}
+.el-table .warning-row {
+    background: oldlace;
+}
+
+.el-table .success-row {
+    background: #2ba9e1;
+}
+.cell {
+    color: black;
+    text-align: right;
+}
+.card  {
+    padding-top :  25px ;
+}
+hr {
+    width : 20% ;
+    border-bottom: 1px solid black ;
+}
+.panel-sm {
+    width:35% ;
+    margin: auto;
+    padding: 10px;
+}
